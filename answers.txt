@@ -6,3 +6,8 @@ Answer: It is an efficient way of collaborating with other developers. It is als
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science could be used in the healthcare field to reveal insights about how susceptible a patient is to a certain illness
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: merging preserves the entire history of the repository while rebasing moves the feature branch to the tip of main
+
